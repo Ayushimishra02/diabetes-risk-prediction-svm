@@ -22,3 +22,12 @@ This project uses Machine Learning to classify individuals into "Low Risk" or "H
 ### 🛠 Tech Stack
 - Python, Scikit-learn, Pandas, NumPy
 - Matplotlib, Seaborn
+- ### 📊 Visualizing the Results
+
+| Decision Boundary | Confusion Matrix |
+| :---: | :---: |
+| ![Decision Boundary](decision_boundary.png) | ![Confusion Matrix](confusion_matrix.png) |
+
+| ROC Curve | 
+| :---: |
+| ![ROC Curve](roc_curve.png) |
